@@ -1,0 +1,19 @@
+{
+  "chromeArguments" : ["new-window", "test-type", "start-maximized", "fast-start" ],
+  "desiredCapabilities" : {
+    "platform" : "ANY",
+    "javascriptEnabled" : true,
+    "acceptSslCerts" : true,
+    "browserName" : "chrome",
+    "unexpectedAlertBehaviour" : "ignore",
+    "rotatable" : false,
+    "locationContextEnabled" : true,
+    "version" : "",
+    "databaseEnabled" : true,
+    "browserConnectionEnabled" : true,
+    "webStorageEnabled" : true,
+    "nativeEvents" : false,
+    "webdriver.remote.quietExceptions" : false,
+    "applicationCacheEnabled" : true
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "desiredCapabilities" : {
+    "silent" : false,
+    "acceptSslCerts" : true,
+    "javascriptEnabled" : true,
+    "elementScrollBehavior" : 1,
+    "ignoreZoomSetting" : true,
+    "enablePersistentHover" : false,
+    "browserName" : "internet explorer",
+    "ignoreProtectedModeSettings" : true,
+    "requireWindowFocus" : false,
+    "applicationCacheEnabled" : true,
+    "platform" : "WINDOWS",
+    "ensureCleanSession" : true,
+    "unexpectedAlertBehaviour" : "ignore",
+    "locationContextEnabled" : true,
+    "databaseEnabled" : true,
+    "browserConnectionEnabled" : true
+  }
+}

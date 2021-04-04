@@ -1,0 +1,23 @@
+date,account,category,amount,currency,converted amount,currency,description
+30/03/2021,Cash,Clothes,-20,USD,-20,USD,
+30/03/2021,Cash,Taxi,-20,USD,-20,USD,
+30/03/2021,Cash,House,"-500,000",USD,"-500,000",USD,
+30/03/2021,Cash,Car,-450,USD,-450,USD,13#
+30/03/2021,Cash,Clothes,-18,USD,-18,USD,"<script>alert(""hello"")</script>"
+30/03/2021,Payment card,Gifts,-20,USD,-20,USD,
+30/03/2021,Payment card,Toiletry,-50,USD,-50,USD,
+30/03/2021,Payment card,Deposits,"123,456,789",USD,"123,456,789",USD,
+30/03/2021,Payment card,Deposits,"500,000,000",USD,"500,000,000",USD,
+30/03/2021,Payment card,Deposits,"500,000,000",USD,"500,000,000",USD,
+30/03/2021,Payment card,Clothes,"-500,000,000",USD,"-500,000,000",USD,
+30/03/2021,Payment card,Pets,-56,USD,-56,USD,
+30/03/2021,Payment card,Health,"-50,000",USD,"-50,000",USD,
+30/03/2021,Payment card,Car,"-50,000,000",USD,"-50,000,000",USD,
+30/03/2021,Payment card,Gifts,"-100,000,000",USD,"-100,000,000",USD,
+30/03/2021,Payment card,Entertainment,"-100,000,000",USD,"-100,000,000",USD,
+30/03/2021,Payment card,Toiletry,"-500,000,000",USD,"-500,000,000",USD,
+30/03/2021,Payment card,Health,-80,USD,-80,USD,
+30/03/2021,Payment card,Savings,60,USD,60,USD,
+30/03/2021,Payment card,Savings,30,USD,30,USD,
+30/03/2021,Payment card,Salary,60,USD,60,USD,
+30/03/2021,Payment card,Deposits,84,USD,84,USD,

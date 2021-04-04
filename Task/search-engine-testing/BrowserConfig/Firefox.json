@@ -1,0 +1,12 @@
+{
+  "desiredCapabilities" : {
+    "acceptInsecureCerts" : true,
+    "acceptSslCerts" : true,
+    "applicationCacheEnabled" : true,
+    "browserConnectionEnabled" : true,
+    "browserName" : "firefox",
+    "databaseEnabled" : true,
+    "elementScrollBehavior" : 1,
+    "javascriptEnabled" : true
+}
+}
